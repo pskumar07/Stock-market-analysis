@@ -152,10 +152,9 @@ flowchart LR
 8. Diagrams & Visuals
 
 - GUI screenshots (showing the main page, input box, and charts)
-- Flowchart
-  <img width="3840" height="294" alt="Untitled diagram _ Mermaid Chart-2025-10-01-092406" src="https://github.com/user-attachments/assets/29d96ffc-89fb-459b-94e7-ff24968d6d40" />
+- Flowchart (Showing Above)
 - Example prediction graphs (showing how the price might change)
-
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d119732a-8155-4bdb-9d64-f44072f6fa4e" />
 
 9. Troubleshooting
 
