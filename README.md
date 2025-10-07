@@ -6,7 +6,6 @@ Role: Technical Writer / Documentation Creator
 Date: October, 2025  
 Version: 1.0
 Author - Pratik Kumar
-LinkedIn - https://www.linkedin.com/in/kumarpratik2022/
 
 Table of Contents
 
