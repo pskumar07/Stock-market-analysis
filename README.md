@@ -2,7 +2,7 @@
 Stock Price Prediction App Documentation
 
 Project Name: Stock Price Prediction App  
-Role: Technical Writer / Documentation Creator  
+Role: Technical Writer / Documentation Creator / Developer
 Date: October, 2025  
 Version: 1.0
 
