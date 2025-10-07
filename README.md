@@ -5,6 +5,7 @@ Project Name: Stock Price Prediction App
 Role: Technical Writer / Documentation Creator / Developer
 Date: October, 2025  
 Version: 1.0
+Support - https://ko-fi.com/blazentrix
 
 Table of Contents
 
