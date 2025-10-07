@@ -5,7 +5,6 @@ Project Name: Stock Price Prediction App
 Role: Technical Writer / Documentation Creator  
 Date: October, 2025  
 Version: 1.0
-Author - Pratik Kumar
 
 Table of Contents
 
